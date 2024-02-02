@@ -28,7 +28,7 @@ A python app that can change DNS of wifi or ethernet.
     █████     █████ █████        ██████████   █████  ░░█████░░█████████
     ░░░░░     ░░░░░ ░░░░░        ░░░░░░░░░░   ░░░░░    ░░░░░  ░░░░░░░░░     t.me/Mr3rf1
 
- [>] Current DNS: 78.157.42.100, 78.157.42.101, 192.168.209.192
+ [>] Current DNS: PRIMARY_DNS, SECONDARY_DNS
  [<] Choose DNS:
     [1] GoogleDNS
     [2] Clouadflare
